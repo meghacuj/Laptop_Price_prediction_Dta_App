@@ -1,0 +1,2 @@
+# Laptop_Price_prediction_Dta_App
+Laptop_Price_Prediction _data_app
